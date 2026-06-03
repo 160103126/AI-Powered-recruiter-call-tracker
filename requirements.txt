@@ -1,0 +1,11 @@
+faster-whisper
+pandas
+openpyxl
+gspread
+google-auth
+google-cloud-aiplatform
+langchain
+langchain-google-genai
+pydub
+soundfile
+python-dotenv

@@ -1,0 +1,5 @@
+Rate this opportunity from 1-10 and return JSON {"score": <int>, "reason": "..."}.
+
+Consider salary, GenAI relevance, tech stack, location, and career growth.
+
+Return only JSON.
